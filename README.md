@@ -1,5 +1,3 @@
-# springbootA555D
-基于SpringBoot的拍卖系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
